@@ -6,7 +6,7 @@
 <p><strong>Name : 심현민</strong></p>
 <p><strong>Birth : 2002</strong></p>
 <p><strong>University : Inha University(2021~)</strong></p>
-<p><strong><a href="[http://meaningone.tistory.com](https://gdsc.community.dev/inha-university/)">Club : GDSC</a></strong></p>
+<p><strong><a href="https://gdsc.community.dev/inha-university/">Club : GDSC</a></strong></p>
 
 
 <div align="center>
