@@ -5,6 +5,7 @@
 </div>
 <p><strong>Name : 심현민</strong></p>
 <p><strong>Birth : 2002</strong></p>
+<p><strong>University : Inha University(2021~)</strong></p>
 
 
 <div align="center>
