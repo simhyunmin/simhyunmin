@@ -25,6 +25,8 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhyunmin&layout=donut-vertical)](https://github.com/simhyunmin/github-readme-stats)
 </div>
+<br>
+<br>
 
 <h2 align="center"><strong>Tech that i'm studying now...✍🏻</strong></h2><br>
 
