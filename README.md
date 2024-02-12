@@ -1,7 +1,10 @@
 <div width = "50%">
 <h1> About me 🙋🏻‍♂️</h1>
+<div align="right">
   
 ![80190240](https://github.com/simhyunmin/simhyunmin/assets/80190240/4faedfc6-bb42-4553-888a-6d2a07fd5ba4)'
+
+</div>
 </div>
 <h1>Name</h1>
 <p><strong>심현민</strong></p>
