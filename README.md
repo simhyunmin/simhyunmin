@@ -22,6 +22,8 @@
 </div>
 
 <h1 align="center>Tech that i'm studying now</h1><br>
+
+
 <h1 align="center"> 💻 DEV's log 💻 </h1>
 
 <p align="center">
