@@ -14,7 +14,7 @@
 </div>
 
 <br><br><br>
-<h1 align="center">📚 Tech Stack 📚</h1><br>
+<h1 align="center">Tech Stack 📚</h1><br>
 <div align="center">
   <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -48,7 +48,7 @@
 
 
 
-<h1 align="center"> 💻 DEV's log 💻 </h1>
+<h1 align="center"> DEV's log 💻 </h1>
 
 <div align="center">
   
@@ -65,7 +65,7 @@
 </div>
 <br><br><br>
 
-<h1 align="center">🖥️ Algorithm 🖥️</h1>
+<h1 align="center">🖥Algorithm 🖥️</h1>
 <div align="center">
   
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jpsim1234)](https://solved.ac/jpsim1234/)
