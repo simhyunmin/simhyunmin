@@ -13,8 +13,9 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@simhyunmin/posts">
-        [![Velog Badge](https://img.shields.io/badge/Velog-%20%20-orange)](https://velog.io/@simhyunmin)
+      
     </a>
+[![Velog Badge](https://img.shields.io/badge/Velog-%20%20-orange)](https://velog.io/@사용자명)
 
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dracula)
