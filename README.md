@@ -7,7 +7,7 @@
 <p><strong>Birth : 2002</strong></p>
 <p><strong>University : Inha University(2021~)</strong></p>
 
-[Club : GDSC Inha University](https://gdsc.community.dev/inha-university/)
+Club : [GDSC Inha University](https://gdsc.community.dev/inha-university/)
 
 
 
