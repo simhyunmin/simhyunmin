@@ -57,7 +57,7 @@
 </div>
 
 <br><br><br>
-<h1>📈 GitHub stats 📈</h1>
+<h1 align="center">📈 GitHub stats 📈</h1>
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dracula)
