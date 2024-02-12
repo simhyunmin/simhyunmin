@@ -7,10 +7,10 @@
 <p><strong>심현민</strong></p>
 <h1>Birth</h1>
 <p><strong>2002~</strong></p>
+<h1>University</h1>
+<p><strong>Inha University(2021~)</strong></p>
 <h1>Club</h1>
-<p><strong>University : Inha University(2021~)</strong></p>
-
-Club : [GDSC Inha University](https://gdsc.community.dev/inha-university/)
+[GDSC Inha University](https://gdsc.community.dev/inha-university/)
 
 
 
