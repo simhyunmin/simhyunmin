@@ -44,7 +44,7 @@
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhyunmin&layout=compact)](https://github.com/simhyunmin/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhyunmin&layout=donut-vertical)](https://github.com/simhyunmin/github-readme-stats)
     
 </div>
 <br><br><br><br><br>
