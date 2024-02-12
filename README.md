@@ -1,7 +1,7 @@
 <div width = "50%">
 <h1> About me 🙋🏻‍♂️</h1>
 <div style="display: inline-block;">
-  <div>
+  <div style="display: inline-block;">
   <h1>Name</h1>
   <p><strong>심현민</strong></p>
   <h1>Birth</h1>
@@ -12,7 +12,7 @@
     
   [GDSC Inha University](https://gdsc.community.dev/inha-university/)
   </div>
-  <div>
+  <div style="display: inline-block;">
   
   ![80190240](https://github.com/simhyunmin/simhyunmin/assets/80190240/4faedfc6-bb42-4553-888a-6d2a07fd5ba4)'
   
