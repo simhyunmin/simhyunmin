@@ -19,6 +19,8 @@
 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhyunmin&layout=donut-vertical)](https://github.com/simhyunmin/github-readme-stats)
 </div>
 
 <h2 align="center"><strong>Tech that i'm studying now...✍🏻</strong></h2><br>
