@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 </div>
 
-<p align="center" style="font-size:30"><strong>Tech that i'm studying now...✍🏻</strong></p><br>
+<p style="font-size:30"><strong>Tech that i'm studying now...✍🏻</strong></p><br>
 
 
 
