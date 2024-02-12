@@ -15,7 +15,7 @@
     <a href="https://velog.io/@simhyunmin/posts">
       
     </a>
-[![Velog Badge](https://img.shields.io/badge/Velog-시원한%20블로그%20만들기-yellowgreen?style=flat&logo=V&logoColor=white)](https://velog.io/@simhyunmin)
+[![Velog Badge](https://img.shields.io/badge/Velog-시원한%20블로그%20만들기-yellowgreen?style=for-the-badge&logo=V&logoColor=white)](https://velog.io/@simhyunmin)
 
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dracula)
