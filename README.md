@@ -53,7 +53,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dracula)
     
 </div>
-<br><br><br><br><br>
+<br><br><br>
 
 <h1 align="center">🖥️ Algorithm 🖥️</h1>
 <div align="center">
