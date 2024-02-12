@@ -1,4 +1,6 @@
 <h1>🙋🏻‍♂️ About me</h1>
+<p><strong>Name : 심현민</strong></p>
+<p><strong>Birth : 2002</strong></p>
 
 <div align="center>
   
