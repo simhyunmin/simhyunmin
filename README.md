@@ -34,11 +34,11 @@
 
 <h1 align="center"> 💻 DEV's log 💻 </h1>
 
-<p align="center">
+<div align="center">
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=simhyunmin&color=)](https://velog.io/@simhyunmin)
-  
-</p>
+
+</div>
 
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dracula)
