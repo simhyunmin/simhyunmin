@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=60%:000000,100%:79d9f9&height=200&section=header&text=welcome&fontSize=40&fontAlignY=30&fontColor=000000)
+<div align="center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=60%:000000,100%:79d9f9&height=200&section=header&text=welcome&fontSize=40&fontAlignY=30&fontColor=000000)
+    
+</div>
+
 <br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimhyunmin%2Fsimhyunmin&count_bg=%23EF6600&title_bg=%23555555&icon=matternet.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false&theme=dracula)](https://hits.seeyoufarm.com)
 <br><br><br>
@@ -6,9 +11,11 @@
 <br><br><br>
 <h1 align="center">📚 Tech Stack 📚</h1><br>
 <p align="center">
+  
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
 <br><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
 </p>
 <h1 align="center"> 💻 DEV's log 💻 </h1>
 
