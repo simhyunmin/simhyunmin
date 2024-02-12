@@ -13,10 +13,10 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     [![Velog Badge](https://img.shields.io/badge/Velog-yellowgreen?style=for-the-badge&logo=V&logoColor=white)](https://velog.io/@simhyunmin)
-
     <a href="https://velog.io/@simhyunmin/posts">
-      
     </a>
+[![Velog Badge](https://img.shields.io/badge/Velog-yellowgreen?style=for-the-badge&logo=V&logoColor=white)](https://velog.io/@simhyunmin)
+
 
 
 <br><br><br>
