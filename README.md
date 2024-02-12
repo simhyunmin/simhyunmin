@@ -23,6 +23,13 @@
 
 <h2 align="center"><strong>Tech that i'm studying now...✍🏻</strong></h2><br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+
 
 
 <h1 align="center"> 💻 DEV's log 💻 </h1>
