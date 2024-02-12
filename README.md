@@ -2,7 +2,7 @@
 <br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimhyunmin%2Fsimhyunmin&count_bg=%23EF6600&title_bg=%23555555&icon=matternet.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false&theme=dracula)](https://hits.seeyoufarm.com)
 <br><br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jpsim1234)](https://solved.ac/jpsim1234/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jpsim1234)](https://solved.ac/jpsim1234)
 <br><br><br>
 <h3 align="center">📚 Tech Stack 📚</h3><br>
 <p align="center">
