@@ -12,7 +12,11 @@
 </p>
 <p align="center"> 💻 DEV's log 💻 </p>
 
-<p align="center">[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=simhyunmin&color=)](https://velog.io/@simhyunmin)</p>
+<p align="center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=simhyunmin&color=)](https://velog.io/@simhyunmin)
+  
+</p>
 
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dracula)
