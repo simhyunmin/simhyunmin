@@ -10,6 +10,7 @@
 <h1>University</h1>
 <p><strong>Inha University(2021~)</strong></p>
 <h1>Club</h1>
+
 [GDSC Inha University](https://gdsc.community.dev/inha-university/)
 
 
