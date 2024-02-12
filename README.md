@@ -3,8 +3,11 @@
   
 ![80190240](https://github.com/simhyunmin/simhyunmin/assets/80190240/4faedfc6-bb42-4553-888a-6d2a07fd5ba4)'
 </div>
-<p><strong>Name : 심현민</strong></p>
-<p><strong>Birth : 2002</strong></p>
+<h1>Name</h1>
+<p><strong>심현민</strong></p>
+<h1>Birth</h1>
+<p><strong>2002~</strong></p>
+<h1>Club</h1>
 <p><strong>University : Inha University(2021~)</strong></p>
 
 Club : [GDSC Inha University](https://gdsc.community.dev/inha-university/)
