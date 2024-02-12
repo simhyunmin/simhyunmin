@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 <p align="center"> 💻 DEV's log 💻 </p>
-<br>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=simhyunmin&color=)](https://velog.io/@simhyunmin)
+
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dracula)
 <br><br><br><br><br>
