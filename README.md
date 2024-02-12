@@ -12,7 +12,8 @@
 </p>
 <p align="center"> 💻 DEV's log 💻 </p>
 <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=simhyunmin)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=simhyunmin)](https://velog.io/@simhyunmin)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=simhyunmin)](https://github.com/simhyunmin/velog-readme-stats)
 
 
 
