@@ -5,7 +5,7 @@
   <h1>Name</h1>
   <p><strong>심현민</strong></p>
   <h1>Birth</h1>
-  <p><strong>2002~</strong></p>
+  <p><strong>2002.11.25~</strong></p>
   <h1>University</h1>
   <p><strong>Inha University(2021~)</strong></p>
   <h1>Club</h1>  
