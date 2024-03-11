@@ -17,13 +17,17 @@
   <div style="display: inline-block;">
   <h1>Name</h1>
   <p><strong>심현민</strong></p>
+  <br>
   <h1>Birth</h1>
   <p><strong>2002.11.25~</strong></p>
+  <br>
   <h1>University</h1>
   <p><strong>Inha University(2021~)</strong></p>
+  <br>
   <h1>Club</h1>  
     
   [GDSC Inha University](https://gdsc.community.dev/inha-university/)
+  
   </div>
 
 </div>
