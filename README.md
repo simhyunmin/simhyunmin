@@ -16,8 +16,6 @@
   
   *  Blog : https://velog.io/@simhyunmin/posts
     
-  <br>
-  
 <div style="display: inline-block;">
   <div style="display: inline-block;">
   <h1>Name</h1>
