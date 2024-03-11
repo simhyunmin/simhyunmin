@@ -6,7 +6,7 @@
   <br>
   <br>
   
-  *  <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#EA4335</font></font>  : shm66371945@gmail.com
+  *  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shm66371945@gmail.com)](shm66371945@gmail.com)
     
   <br>
   
