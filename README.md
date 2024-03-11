@@ -6,7 +6,7 @@
   <br>
   <br>
   
-  *  📩 : shm66371945@gmail.com
+  *  [📩](https://simpleicons.org/) : shm66371945@gmail.com
     
   <br>
   
