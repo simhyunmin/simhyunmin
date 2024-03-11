@@ -22,7 +22,7 @@
   <p><strong>2002.11.25~</strong></p>
   <br>
   <h1>University</h1>
-  <p><strong>Inha University(2021~)</strong></p>
+  <p><strong>Inha University(2021~Now)</strong></p>
   <br>
   <h1>Club</h1>  
     
