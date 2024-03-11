@@ -6,11 +6,11 @@
   <br>
   <br>
   
-  *  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shm66371945@gmail.com)](shm66371945@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shm66371945@gmail.com)](shm66371945@gmail.com)
     
   <br>
   
-  * Instagram : https://www.instagram.com/hyunmin1125/
+  <a href="https://www.instagram.com/hyunmin1125"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin1125"/></a>
   
   <br>
   
