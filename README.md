@@ -12,7 +12,7 @@
     
   [GDSC Inha University](https://gdsc.community.dev/inha-university/)
   </div>
-ㅇ
+
 </div>
 </div>
 
