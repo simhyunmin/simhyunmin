@@ -3,12 +3,19 @@
   안녕하세요 백엔드 엔지니어 취업 희망생입니다.
   <br>
   <br>
-  *  Email : shm66371945@gmail.com
+  
+  * Email : shm66371945@gmail.com
+    
   <br>
-  *  Instagram : https://www.instagram.com/hyunmin1125/
+  
+  * Instagram : https://www.instagram.com/hyunmin1125/
+  
   <br>
+  
   *  Blog : https://velog.io/@simhyunmin/posts
+    
   <br>
+  
 <div style="display: inline-block;">
   <div style="display: inline-block;">
   <h1>Name</h1>
