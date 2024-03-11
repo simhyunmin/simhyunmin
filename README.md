@@ -6,9 +6,7 @@
   <br>
   <br>
   
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shm66371945@gmail.com)](shm66371945@gmail.com)
-  
-  <a href="mailto:shm66371945@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shm66371945@gmail.com"/></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shm66371945@gmail.com"/></a>
   
   
   *  Blog : https://velog.io/@simhyunmin/posts
