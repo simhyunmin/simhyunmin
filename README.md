@@ -1,6 +1,6 @@
 <div width = "50%">
 <h1> About me 🙋🏻‍♂️</h1>
-  안녕하세요 자바 백엔드 개발자를 지원하는 심현민입니다. 
+  안녕하세요 백엔드 엔지니어 취업 희망생입니다.
 <div style="display: inline-block;">
   <div style="display: inline-block;">
   <h1>Name</h1>
