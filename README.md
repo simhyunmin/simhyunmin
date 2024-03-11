@@ -1,6 +1,9 @@
 <div width = "50%">
 <h1> About me 🙋🏻‍♂️</h1>
   안녕하세요 백엔드 엔지니어 취업 희망생입니다.
+  Email:shm66371945@gmail.com
+  Instagram:https://www.instagram.com/hyunmin1125/
+  Velog:https://velog.io/@simhyunmin/posts
 <div style="display: inline-block;">
   <div style="display: inline-block;">
   <h1>Name</h1>
