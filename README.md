@@ -17,7 +17,7 @@
 <div style="display: inline-block;">
   <div style="display: inline-block;">
   <h1>Name</h1>
-  <p><strong>심현민(Simhyunmin)</strong></p>
+  <p><strong>심현민(Simhyeonnmin)</strong></p>
   <br>
   <h1>Birth</h1>
   <p><strong>2002.11.25~</strong></p>
