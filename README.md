@@ -44,7 +44,7 @@
 
 <br><br><br>
 <h1 align="center">Tech Stack 📚</h1><br>
-<div align="center">
+<div>
   <h3>FrontEnd</h3>
   <br>
   <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
