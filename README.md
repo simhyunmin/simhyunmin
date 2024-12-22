@@ -26,8 +26,7 @@
   <p><strong>Inha University(2021~Now)</strong></p>
   <br>
   <h1>Club</h1>  
-    
-  [GDSC Inha University](https://gdsc.community.dev/inha-university/)
+  <br>
   
   </div>
 
