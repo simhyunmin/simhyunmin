@@ -33,14 +33,6 @@
 </div>
 </div>
 
-
-
-<div>
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=60%:000000,100%:79d9f9&height=200&section=header&text=welcome&fontSize=40&fontAlignY=30&fontColor=000000)
-    
-</div>
-
 <br><br><br>
 <h1>Tech Stack 📚</h1><br>
 <div>
