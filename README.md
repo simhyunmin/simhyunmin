@@ -35,14 +35,14 @@
 
 
 
-<div align="center>
+<div>
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=60%:000000,100%:79d9f9&height=200&section=header&text=welcome&fontSize=40&fontAlignY=30&fontColor=000000)
     
 </div>
 
 <br><br><br>
-<h1 align="center">Tech Stack 📚</h1><br>
+<h1>Tech Stack 📚</h1><br>
 <div>
   <h3>FrontEnd</h3>
   <br>
