@@ -47,6 +47,8 @@
   <br>
   <h3>DB</h3>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <h3>Cloud</h3>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <br>
   <br>
   <br>
