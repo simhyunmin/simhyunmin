@@ -1,4 +1,4 @@
-<div width = "50%">
+<div width = "50%" align="center">
 <h1> About me 🙋🏻‍♂️</h1>
   안녕하세요, 심현민입니다.<br>
   혼자 성장하는 것보다 함께 성장하는 것에 가치를 두고 있습니다.<br>
@@ -36,7 +36,7 @@
 </div>
 
 <br><br><br>
-<h1 align="center">Tech Stack 📚</h1><br>
+<h1 align="center">🛠️ Tech Stack 🛠️</h1><br>
 <div align="center">
   <h3>Language</h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
