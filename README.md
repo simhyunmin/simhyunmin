@@ -18,7 +18,7 @@
 <div style="display: inline-block;" align="center">
   <div style="display: inline-block;">
   <br>
-  <h1>University</h1>
+  <h2>University</h2>
   <p><strong>Inha University(2021~)</strong></p>
   <br>
   <h1>Club</h1>  
