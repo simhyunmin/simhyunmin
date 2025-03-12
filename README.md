@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/hyunmin1125"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin1125"/></a>
   <a href="https://velog.io/@simhyunmin"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@simhyunmin"/></a>
     
-<div style="display: inline-block;">
+<div style="display: inline-block;" align="center">
   <div style="display: inline-block;">
   <h1>Name</h1>
   <p><strong>심현민(SimHyeonnmin)</strong></p>
@@ -36,8 +36,8 @@
 </div>
 
 <br><br><br>
-<h1>Tech Stack 📚</h1><br>
-<div>
+<h1 align="center">Tech Stack 📚</h1><br>
+<div align="center">
   <h3>Language</h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
