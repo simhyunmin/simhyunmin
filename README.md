@@ -11,9 +11,7 @@
   클라우드와 백엔드 기술을 배우는 데 관심을 가지고 있습니다!</strong></p>
   <br>
   <br>
-  <br>
-  <br>
-  <br>
+
   <div style="width: 50%; margin: 0 auto; text-align: center;">
     <h2>✨Activity✨</h2>  
     <div style="text-align: left;">
