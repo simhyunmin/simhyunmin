@@ -16,17 +16,17 @@
   <a href="https://velog.io/@simhyunmin"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@simhyunmin"/></a>
     
   <br>
-  <h2>University</h2>
-  <p><strong>Inha University(2021~)</strong></p>
+  <p>University</p>
+  <p style="font-size: 1.5em; font-weight: bold;" >Inha University(2021~)</p>
   <br>
-  <h2>Club</h2>  
+  <p style="font-size: 1.5em; font-weight: bold;">Club<p>  
   <p>🍃UMC 8기 Server(2025.3.9~)</p>
   <br>
 
 </div>
 
 <br><br><br>
-<h1 align="center">🛠️ Tech Stack 🛠️</h1><br>
+<p style="font-size: 1.5em; font-weight: bold;" align="center">🛠️ Tech Stack 🛠️</p><br>
 <div align="center">
   <h3>Language</h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
