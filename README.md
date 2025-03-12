@@ -16,10 +16,10 @@
   <a href="https://velog.io/@simhyunmin"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@simhyunmin"/></a>
     
   <br>
-  <p>University</p>
+  <p style="font-size: 24px; font-weight: bold; margin: 0;">University</p>
   <p><strong>Inha University(2021~)</strong></p>
   <br>
-  <p style="font-size: 1.5em; font-weight: bold;">Club<p>  
+  <p style="font-size: 24px; font-weight: bold; margin: 0;">Club<p>  
   <p><strong>🍃UMC 8기 Server(2025.3.9~)</strong></p>
   <br>
 
