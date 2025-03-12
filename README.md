@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <h4>InfraStructure</h4>
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp    
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp    
   <h4>Tools</h4>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">     
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
