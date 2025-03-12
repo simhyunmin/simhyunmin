@@ -24,9 +24,10 @@
   <p><strong>2002.11.25~</strong></p>
   <br>
   <h1>University</h1>
-  <p><strong>Inha University(2021~Now)</strong></p>
+  <p><strong>Inha University(2021~)</strong></p>
   <br>
   <h1>Club</h1>  
+  <p>👥UMC 8기 Server(2025.3.9~)</p>
   <br>
   
   </div>
