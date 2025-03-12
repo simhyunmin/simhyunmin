@@ -5,18 +5,26 @@
   <br>
   <br>
   <br><br><br><br>
-  안녕하세요! 심현민입니다 ☺️<br>
+  <p><strong>안녕하세요! 심현민입니다 ☺️<br>
   혼자 성장하는 것보다 함께 성장하는 것에 가치를 두고 있습니다.<br>
-  현재 🏫인하대학교 재학 중이며, 💻클라우드와 백엔드 기술을 배우는 데 관심을 가지고 있습니다!
+  현재 인하대학교🏫 3학년 1학기 재학 상태이고<br>
+  클라우드와 백엔드 기술을 배우는 데 관심을 가지고 있습니다!</strong></p>
   <br>
   <br>
-  <h2></h2>
   <br>
   <br>
   <br>
-
-  <h3>Club</h3>  
-  <p><strong>🍃 UMC 8기 Server(2025.3.9~)</strong></p>
+  <div style="width: 50%; margin: 0 auto; text-align: center;">
+    <h2>✨Activity✨</h2>  
+    <div style="text-align: left;">
+      <strong><p>🏫교내 GDGOC 프로젝트 마라톤 2기 해커톤 참여 (2024.11.25)</p>
+      <p>🏫교내 클라우드 부트 캠프 교육 (2024.12.187)</p>
+      <p>📚교내 정석학술정보관 ‘9 to 9’ 자율 스터디 (2025.1.3~)</p>
+      <p>📚Java/Spring 스터디 운영 (2024.12.23~2025.3.3)</p>
+      <p><strong>🍃 UMC 8기 Server(2025.3.9~)</strong></p>
+      </strong>
+    </div>
+  </div>
   <br>
 
 </div>
