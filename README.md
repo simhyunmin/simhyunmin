@@ -15,19 +15,14 @@
   <a href="https://www.instagram.com/hyunmin1125"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin1125"/></a>
   <a href="https://velog.io/@simhyunmin"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@simhyunmin"/></a>
     
-<div style="display: inline-block;" align="center">
-  <div style="display: inline-block;">
   <br>
   <h2>University</h2>
   <p><strong>Inha University(2021~)</strong></p>
   <br>
-  <h1>Club</h1>  
-  <p>👥UMC 8기 Server(2025.3.9~)</p>
+  <h2>Club</h2>  
+  <p>🍃UMC 8기 Server(2025.3.9~)</p>
   <br>
-  
-  </div>
 
-</div>
 </div>
 
 <br><br><br>
