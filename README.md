@@ -22,7 +22,7 @@
 </div>
 
 <br><br><br>
-<p style="font-size: 1.5em; font-weight: bold;" align="center">🛠️ Tech Stack 🛠️</p><br>
+<h3>🛠️ Tech Stack 🛠️</h3><br>
 <div align="center">
   <h3>Language</h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
