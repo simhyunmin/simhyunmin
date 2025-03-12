@@ -17,13 +17,13 @@
     
   <br>
   
-  <div style="font-size: 24px;">University</div>
+  <h3>University</h3>
   
   <p><strong>Inha University(2021~)</strong></p>
   
   <br>
   
-  <div style="font-size: 24px;">Club<div>  
+  <h3>Club</h3>  
     
   <p><strong>🍃UMC 8기 Server(2025.3.9~)</strong></p>
   <br>
