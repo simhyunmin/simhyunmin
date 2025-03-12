@@ -27,7 +27,7 @@
   <h4>Language</h4>
     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>                 
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <br>
   <h4>FrontEnd</h4>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -41,8 +41,9 @@
   <h4>DB</h4>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2-4169E3?style=flat-square&logo=H2&logoColor=white"/>
   <h4>InfraStructure</h4>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp    
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp    
   <h4>Tools</h4>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">     
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
