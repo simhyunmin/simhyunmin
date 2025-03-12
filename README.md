@@ -36,7 +36,7 @@
 </div>
 
 <br><br><br>
-<h1 align="center">Tech Stack 📚</h1><br>
+<h1>Tech Stack 📚</h1><br>
 <div align="center">
   <h3>Language</h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
