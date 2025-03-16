@@ -54,7 +54,7 @@
   <h4>Cowork Tools</h4>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">     
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
+  <br><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"><br>
   <img src="https://img.shields.io/badge/IntelliJ-181717?style=flat-square&logo=IntelliJ+IDEA&logoColor=white">
