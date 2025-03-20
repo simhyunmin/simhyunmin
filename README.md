@@ -5,10 +5,10 @@
   <br>
   <br>
   <br><br><br><br>
-  <p><strong>안녕하세요! 심현민입니다 ☺️<br>
-  혼자 성장하는 것보다 함께 성장하는 것에 가치를 두고 있습니다.<br>
-  현재 인하대학교🏫 3학년 1학기 재학 상태이고<br>
-  클라우드와 백엔드 기술을 배우는 데 관심을 가지고 있습니다!</strong></p>
+  <p><strong>Hey there! I'm Hyunmin Sim ☺️<br>
+  I value growing together rather than alone.<br>
+  Currently, I'm a junior at Inha University 🏫 (3rd year, 1st semester),<br>
+  passionate about learning 'Cloud computing' and 'Backend development'!</strong></p>
   <br>
   <br>
 
