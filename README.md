@@ -7,7 +7,7 @@
   <br><br><br><br>
   <p><strong>Hey there! I'm Hyunmin Sim ☺️<br>
   I value growing together rather than alone.<br>
-  Currently, I'm a junior at Inha University 🏫 (3rd year, 1st semester),<br>
+  I'm a junior at Inha University 🏫 (3rd year, 1st semester),<br>
   passionate about learning 'Cloud computing' and 'Backend development'!</strong></p>
   <br>
   <br>
