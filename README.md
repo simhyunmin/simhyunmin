@@ -15,16 +15,30 @@
   <div style="width: 50%; margin: 0 auto; text-align: center;">
     <h2>✨Activity✨</h2>  
     <div style="text-align: left;">
-      <strong><p>🏫교내 GDGOC 프로젝트 마라톤 2기 해커톤 참여 (2024.11.25)</p>
-      <p>🏫교내 클라우드 부트 캠프 교육 (2024.12.18)</p>
-      <p>📚교내 정석학술정보관 ‘9 to 9’ 자율 스터디 (2025.1.3~)</p>
-      <p>📚Java/Spring 스터디 운영 (2024.12.23~2025.3.3)</p>
-      <p><strong>🍃 UMC 8기 Server(2025.3.9~)</strong></p>
+      <h3><em>-2024-</em></h3>
+      <strong><p>🔥 교내 GDGOC 프로젝트 마라톤 2기 해커톤 참여 (2024.11.25)</p>
+      <p>☁️ 교내 클라우드 부트 캠프 교육 (2024.12.18)</p>
+      <h3><em>-2025-</em></h3>
+      <p>📚 교내 정석학술정보관 ‘9 to 9’ 자율 스터디 (2025.1.3~)</p>
+      <p>💻 Java/Spring 스터디 운영 (2024.12.23~2025.3.3)</p>
+      <p>🌐 UMC 8기 Server(2025.3.9~)</p>
+      <p>🌱 2025 탄소중립 아이디어톤(2025.3.10~)</p>
+      <p>🤖 ACC 생성형 AI 워크숍 교육(2025.3.28)</p>
       </strong>
     </div>
   </div>
   <br>
 
+  <br>
+  <div style="width: 50%; margin: 0 auto; text-align: center;">
+    <h2>💡Projects💡</h2> 
+     <div style="text-align: left;">
+     <strong>
+     스몰톡 주제 추천 서비스 - "TalkPick” (2025.1~)<br>
+     사용자 맞춤 유튜브 분석 결과 제공 서비스 - “AlgoView” (2025.2~)<br>
+     </strong>
+     </div>
+  </div>
 </div>
 
 <br><br>
