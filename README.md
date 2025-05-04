@@ -99,7 +99,7 @@
 <br><br><br>
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhyunmin&layout=compact)](https://github.com/simhyunmin/github-readme-stats)<br>
   <br>
   <br>
