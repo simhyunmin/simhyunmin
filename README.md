@@ -24,6 +24,7 @@
       <p>UMC 8th Server Challenger(2025.3.9~)</p>
       <p>ACC Generative AI Workshop 교육(2025.3.28)</p>
       <p>2025 탄소중립 아이디어톤(2025.3.10~4.4)</p>
+      <p>2025 Google Solution Challenge(2025.4.11~)</p>
       </strong>
     </div>
   </div>
