@@ -17,12 +17,9 @@
     <div style="text-align: left;">
       <h3><em>-2024-</em></h3>
       <strong><p>GDGOC INHA Project Marathon 2th 해커톤 (2024.11.25)</p>
-      <p>CCCR AWS Cloud 교육 (2024.12.18)</p><br>
       <h3><em>-2025-</em></h3>
-      <p>교내 정석학술정보관 ‘9 to 9’ 스터디 (2025.1.3~)</p>
-      <p>Java/Spring 자율 스터디 (2024.12.23~2025.3.3)</p>
+      <p>Java/Spring 스터디 (2024.12.23~2025.3.3)</p>
       <p>UMC 8th Server Challenger(2025.3.9~)</p>
-      <p>ACC Generative AI Workshop 교육(2025.3.28)</p>
       <p>2025 탄소중립 아이디어톤(2025.3.10~4.4)</p>
       <p>2025 Google Solution Challenge(2025.4.11~)</p>
       </strong>
