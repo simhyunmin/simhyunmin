@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp    
   <h4>Cowork Tools</h4> 
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/IntelliJ-181717?style=flat-square&logo=IntelliJ+IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
   <h2></h2>
