@@ -1,86 +1,57 @@
-<div width = "50%" align="center">
+<div style="width: 50%; text-align: left;">
   
-  ![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20Halu%27s%20Github&fontColor=87CEEB)
-  <br>
-  <br>
-  <br>
-  <br><br><br><br>
-  <p><strong>Hey there! I'm Hyunmin Sim ☺️<br>
-  I value growing together rather than alone.<br>
-  I'm a junior at Inha University 🏫 (3rd year, 1st semester),<br>
-  passionate about learning 'Cloud computing' and 'Backend development'!</strong></p>
-  <br>
-  <br>
+  ### Hi there 👋
+  ## Hyunmin Sim (심현민)
 
-  <br>
-  <div style="width: 50%; margin: 0 auto; text-align: center;">
-    <h2>💡Projects💡</h2> 
-     <div style="text-align: left;">
-     <strong>
-     <p>스몰톡 주제 추천 서비스 - "TalkPick” (2025.1~)</p><br>
-     <p>사용자 맞춤형 유튜브 분석 결과 제공 서비스 - “AlgoView” (2025.2.1~3.31)</p><br>
-     <p>만성 소화계 질환자를 위한 AI 기반 여행 헬스케어 플랫폼 - "알고가" (2025.4.11~)</p><br>
-     </strong>
-     </div>
-  </div>
-</div>
+  - ☺️ I value growing **together** rather than alone  
+  - 🎓 studying on **Inha University** (3rd year, 2st semester)  
+  - ☁️ Passionate about **AI** and **Backend Development**
+### Tech Stack
+<b>Language</b> :
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 
-<br><br>
-<h2 align="center">✨ Tech Stack ✨</h2>
-<div align="center">
-  <h4>Language</h4>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>                 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-  <br>
-  <h4>Web</h4>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>           
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 
-  <br>
-  <h4>DB</h4>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/H2-4169E3?style=flat-square&logo=H2&logoColor=white"/>
-  <h4>Infra</h4>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp    
-  <h4>Cowork Tools</h4> 
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ-181717?style=flat-square&logo=IntelliJ+IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-  <h2></h2>
-  <br>
-  
-</div>
-<h3 align="center"> DEV's log 💻 </h3>
+<b>Backend</b> :
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 
-<div align="center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=simhyunmin&color=)](https://velog.io/@simhyunmin)
+<b>Database</b> :
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/H2-003B57?style=flat&logo=h2&logoColor=white"/>
 
-</div>
-<br>
-<h3 align="center">📝Algorithm📝</h3>
-
-<div align="center">
+<div align="left">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jpsim1234)](https://solved.ac/jpsim1234/)
   
 </div>
-<h2></h2>
 
-<br><br><br>
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhyunmin&layout=compact)](https://github.com/simhyunmin/github-readme-stats)<br>
-  <br>
-  <br>
-  <br>
-  <h3>Contact to Here 👇</h3>
+ <h3>Contact to Here </h3>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shm66371945@gmail.com"/></a>
   <a href="https://www.instagram.com/hyunmin1125"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin1125"/></a>
   <a href="https://velog.io/@simhyunmin"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@simhyunmin"/></a>
   
 </div>
 
+<br>
+
+## DEV's log
+
+<div align="left">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=simhyunmin&color=)](https://velog.io/@simhyunmin)
+
+</div>
+
+<div align="left">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhyunmin&layout=compact)](https://github.com/simhyunmin/github-readme-stats)<br>
+  <br>
+  <br>
+  <br>
+  
+</div>
