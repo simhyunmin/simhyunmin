@@ -1,6 +1,14 @@
 <div style="width: 50%; text-align: left;">
   
-  ### Hi there 👋
+  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=simhyunmin&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/simhyunmin?pet-id=746413014030845406"
+    width="600"
+    height="120"
+  />
+</a>
+  
   ## Hyeonmin Sim (심현민)
 
   - ☺️ I value growing **together** rather than alone  
