@@ -47,10 +47,10 @@
 
   ## DEV's log
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=simhyunmin&color=)](https://velog.io/@simhyunmin)
+ ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/simhyunmin?theme=dark&posts=3)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhyunmin&layout=compact)](https://github.com/simhyunmin/github-readme-stats)<br>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark)
+  
   
 
   
