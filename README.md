@@ -18,24 +18,43 @@
   <br>
 
   ### Tech Stack
-  <b>Language</b> :
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <div align=left> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
   
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <br>
   
-  <b>Backend</b> :
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <br>
   
-  <b>Database</b> :
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon_s3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white">
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=notebooklm&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/ngrok-0055DA?style=for-the-badge&logo=ngrok&logoColor=white">
+  </div>
+
+  <br>
+  <br>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jpsim1234)](https://solved.ac/jpsim1234/)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=simhyunmin&theme=dark)](https://git.io/streak-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jpsim1234)](https://solved.ac/jpsim1234/)&nbsp;
   
   <br>
 
@@ -51,8 +70,13 @@
   
  ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/simhyunmin?theme=dark&posts=3)
   
- ![Simhyeonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=5)
-  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=5" alt="Simhyeonmin's GitHub stats"/>
+  &nbsp;
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=simhyunmin&theme=dark" alt="GitHub Streak"/>
+  </a>
+</div>
   
 
   
