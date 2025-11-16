@@ -49,7 +49,7 @@
   
  ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/simhyunmin?theme=dark&posts=3)
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark)
+ ![Simhyeonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=5)
   
   
 
