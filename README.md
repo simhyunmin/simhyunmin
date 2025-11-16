@@ -35,6 +35,8 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jpsim1234)](https://solved.ac/jpsim1234/)
   
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=simhyunmin&theme=dark)](https://git.io/streak-stats)
+  
   <br>
 
  <h3>Contact to Here </h3>
