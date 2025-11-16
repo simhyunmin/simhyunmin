@@ -9,11 +9,8 @@
   />
 </a>
   
-  ## Hyeonmin Sim (심현민)
-
-  - ☺️ I value growing **together** rather than alone  
-  - 🎓 studying on **Inha University** (3rd year, 2st semester)  
-  - ☁️ Passionate about **AI** and **Backend Development**
+  ### Hyeonmin Sim (심현민)
+  - **interested in implementing services that incorporate AI technology**
 
   <br>
 
