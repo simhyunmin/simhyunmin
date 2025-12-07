@@ -1,14 +1,5 @@
 <div style="width: 50%; text-align: left;">
   
-  
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=simhyunmin&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/simhyunmin?pet-id=746413014030845406"
-    width="600"
-    height="120"
-  />
-</a>
-  
   ### Hyeonmin Sim (심현민)
   - **interested in implementing services that incorporate AI technology**
 
