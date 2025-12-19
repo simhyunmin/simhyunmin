@@ -59,11 +59,11 @@
   
  ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/simhyunmin?theme=dark&posts=3)
   
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=5" alt="Simhyeonmin's GitHub stats"/>
   <a href="https://git.io/streak-stats">
   </a>
-</div>
+</div> -->
   
 
   
