@@ -8,14 +8,6 @@
   />
 </a>
     
-  ### Hyeonmin Sim (심현민)
-  - **interested in implementing services that incorporate AI technology**
-
-
-  <br>
-  <br>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jpsim1234)](https://solved.ac/jpsim1234/)&nbsp;
   
   <br>
 
