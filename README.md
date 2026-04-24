@@ -64,11 +64,11 @@ Inha University - Computer Science (2021 ~ Present)
       <td align="center" width="500" valign="top" style="border: none;">
         <img src="https://streak-stats.demolab.com/?user=simhyunmin&background=151515&fire=888888&ring=ffffff&currStreakNum=ffffff&currStreakLabel=bbbbbb&sideNums=bbbbbb&sideLabels=bbbbbb&dates=888888&hide_border=true" width="490"/>
       </td>
-      <td align="center" valign="middle" width="450" style="border: none;">
+      <td align="left" valign="middle" width="450" style="border: none;">
         <div style="padding: 10px; margin-left: 10px;">
-          <strong style="font-size: 1.2em; color: white;">Featured Project</strong><br>
+          <strong style="font-size: 1em; color: white;">Featured Project</strong><br>
           <a href="https://1-page.site/">
-            <img src="https://img.shields.io/badge/OnePage_AI_Lecture_Summary-555555?style=for-the-badge&logo=googledocs&logoColor=white" height="32"/>
+            <img src="https://img.shields.io/badge/OnePage_AI_Lecture_Summary-555555?style=for-the-badge&logo=googledocs&logoColor=white" height="20"/>
           </a>
           <br><br>
           <strong style="font-size: 1em; color: white;">Contact & Links</strong><br>
@@ -76,7 +76,7 @@ Inha University - Computer Science (2021 ~ Present)
           <a href="https://www.linkedin.com/in/simhyunmin"><img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></a>
           <a href="https://velog.io/@simhyunmin"><img src="https://img.shields.io/badge/Velog-555555?style=for-the-badge&logo=velog&logoColor=white" height="20"/></a>
           <a href="https://www.instagram.com/hyunmin1125"><img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white" height="20"/></a>
-          <br><br>
+          <br>
           <strong style="font-size: 1em; color: white;">Core Stack</strong><br>
           <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" height="20"/>
           <img src="https://img.shields.io/badge/Spring_Boot-333333?style=for-the-badge&logo=springboot&logoColor=white" height="20"/>
