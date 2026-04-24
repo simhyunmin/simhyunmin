@@ -17,9 +17,8 @@ Inha University - Computer Science (2021 ~ Present)
       <td align="center" width="330" valign="top" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=true" width="310" height="190">
       </td>
-      <td align="left" valign="top" width="550" style="border: none;">
+      <td align="center" valign="top" width="550" style="border: none;">
         <div style="background-color: #151515; padding: 25px; border-radius: 8px; height: 280px; width: 500px; margin-left: 10px;">
-          <strong style="color: white; font-size: 1.2em; display: block; margin-bottom: 15px;">📊 Tech Usage Analysis</strong>
           <table style="border-collapse: collapse; border: none; color: #bbbbbb; font-size: 18px; width: 100%;">
             <tr style="border: none;">
               <td style="padding-bottom: 10px; width: 140px; border: none;">
@@ -81,7 +80,6 @@ Inha University - Computer Science (2021 ~ Present)
           <strong style="font-size: 1.2em; color: white;">Core Stack</strong><br>
           <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" height="24"/>
           <img src="https://img.shields.io/badge/Spring_Boot-333333?style=for-the-badge&logo=springboot&logoColor=white" height="24"/>
-          <br>
           <img src="https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white"/>
           <img src="https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white"/>
