@@ -12,48 +12,48 @@ Inha University - Computer Science (2021 ~ Present)
 ##
 
 <div align="center">
-  <table id="stats-table" style="border-collapse: collapse; border: none;" border="0" cellpadding="0" cellspacing="0">
+  <table id="stats-table" style="border-collapse: collapse; border: none;" width="900">
     <tr>
-      <td align="center" width="330" valign="top" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=true" width="310" height="190">
+      <td align="center" width="450" valign="top" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=true" width="449" height="260">
       </td>
-      <td align="center" valign="top" width="550" style="border: none;">
-        <div style="background-color: #151515; padding: 25px; border-radius: 8px; height: 280px; width: 500px; margin-left: 10px;">
-          <table style="border-collapse: collapse; border: none; color: #bbbbbb; font-size: 18px; width: 100%;">
+      <td align="center" width="450" valign="top" style="border: none;">
+        <div style="background-color: #151515; padding: 25px; border-radius: 8px; height: 210px; width: 380px; text-align: left;">
+          <table style="border-collapse: collapse; border: none; color: #bbbbbb; font-size: 16px; width: 100%;">
             <tr style="border: none;">
-              <td style="padding-bottom: 10px; width: 140px; border: none;">
-                <img src="https://img.shields.io/badge/-555555?style=flat-square&logo=openjdk&logoColor=white" height="22" valign="middle"> 
+              <td style="padding-bottom: 10px; width: 110px; border: none;">
+                <img src="https://img.shields.io/badge/-555555?style=flat-square&logo=openjdk&logoColor=white" height="20" valign="middle"> 
                 <strong>&nbsp; Java</strong>
               </td>
               <td style="padding-bottom: 10px; border: none;">
-                <img src="https://img.shields.io/badge/-████████████████████████████████████████████████████████████-555555?style=flat-square" height="12" valign="middle">
+                <img src="https://img.shields.io/badge/-██████████████████████████-555555?style=flat-square" height="12" valign="middle">
               </td>
             </tr>
             <tr style="border: none;">
               <td style="padding-bottom: 10px; border: none;">
-                <img src="https://img.shields.io/badge/-555555?style=flat-square&logo=python&logoColor=white" height="22" valign="middle"> 
+                <img src="https://img.shields.io/badge/-555555?style=flat-square&logo=python&logoColor=white" height="20" valign="middle"> 
                 <strong>&nbsp; Python</strong>
               </td>
               <td style="padding-bottom: 10px; border: none;">
-                <img src="https://img.shields.io/badge/-█████████████████████████████████████████████░░░░░░░░░░░░░░░-555555?style=flat-square" height="12" valign="middle">
+                <img src="https://img.shields.io/badge/-██████████████████░░░░░░░░-555555?style=flat-square" height="12" valign="middle">
               </td>
             </tr>
             <tr style="border: none;">
               <td style="padding-bottom: 10px; border: none;">
-                <img src="https://img.shields.io/badge/-555555?style=flat-square&logo=kotlin&logoColor=white" height="22" valign="middle"> 
+                <img src="https://img.shields.io/badge/-555555?style=flat-square&logo=kotlin&logoColor=white" height="20" valign="middle"> 
                 <strong>&nbsp; Kotlin</strong>
               </td>
               <td style="padding-bottom: 10px; border: none;">
-                <img src="https://img.shields.io/badge/-███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░-555555?style=flat-square" height="12" valign="middle">
+                <img src="https://img.shields.io/badge/-██████████████░░░░░░░░░░░░-555555?style=flat-square" height="12" valign="middle">
               </td>
             </tr>
             <tr style="border: none;">
               <td style="padding-bottom: 10px; border: none;">
-                <img src="https://img.shields.io/badge/-555555?style=flat-square&logo=dart&logoColor=white" height="22" valign="middle"> 
+                <img src="https://img.shields.io/badge/-555555?style=flat-square&logo=dart&logoColor=white" height="20" valign="middle"> 
                 <strong>&nbsp; Dart</strong>
               </td>
               <td style="padding-bottom: 10px; border: none;">
-                <img src="https://img.shields.io/badge/-████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-555555?style=flat-square" height="12" valign="middle">
+                <img src="https://img.shields.io/badge/-████████░░░░░░░░░░░░░░░░░░-555555?style=flat-square" height="12" valign="middle">
               </td>
             </tr>
           </table>
@@ -61,11 +61,11 @@ Inha University - Computer Science (2021 ~ Present)
       </td>
     </tr>
     <tr>
-      <td align="center" width="330" valign="top" style="border: none;">
-        <img src="https://streak-stats.demolab.com/?user=simhyunmin&background=151515&fire=888888&ring=ffffff&currStreakNum=ffffff&currStreakLabel=bbbbbb&sideNums=bbbbbb&sideLabels=bbbbbb&dates=888888&hide_border=true" width="310" height="190" />
+      <td align="center" width="450" valign="top" style="border: none;">
+        <img src="https://streak-stats.demolab.com/?user=simhyunmin&background=151515&fire=888888&ring=ffffff&currStreakNum=ffffff&currStreakLabel=bbbbbb&sideNums=bbbbbb&sideLabels=bbbbbb&dates=888888&hide_border=true" width="430" height="260" />
       </td>
-      <td align="center" valign="middle" width="550" style="border: none;">
-        <div style="padding: 10px; margin-left: 10px;">
+      <td align="center" width="450" valign="middle" style="border: none;">
+        <div style="width: 400px;">
           <strong style="font-size: 1.2em; color: white;">Featured Project</strong><br>
           <a href="https://1-page.site/">
             <img src="https://img.shields.io/badge/OnePage_AI_Lecture_Summary-555555?style=for-the-badge&logo=googledocs&logoColor=white" height="32"/>
