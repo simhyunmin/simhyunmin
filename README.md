@@ -15,7 +15,7 @@ Inha University - Computer Science (2021 ~ Present)
   <table id="stats-table">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=true" width="600" height="225">
+        <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=true" width="500" height="300">
       </td>
       <td align="center" valign="center" width="500" height="225">
         <div style="background-color: #151515; padding: 34px; border-radius: 8px; height: 314px;">
@@ -62,7 +62,7 @@ Inha University - Computer Science (2021 ~ Present)
     </tr>
     <tr>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=simhyunmin&background=151515&fire=888888&ring=ffffff&currStreakNum=ffffff&currStreakLabel=bbbbbb&sideNums=bbbbbb&sideLabels=bbbbbb&dates=888888&hide_border=true" width="600" height="225" />
+        <img src="https://streak-stats.demolab.com/?user=simhyunmin&background=151515&fire=888888&ring=ffffff&currStreakNum=ffffff&currStreakLabel=bbbbbb&sideNums=bbbbbb&sideLabels=bbbbbb&dates=888888&hide_border=true" width="500" height="300" />
       </td>
       <td align="center" valign="middle">
         <br>
