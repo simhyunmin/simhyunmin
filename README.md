@@ -14,10 +14,10 @@ Inha University - Computer Science (2021 ~ Present)
 <div align="center">
   <table id="stats-table" style="border-collapse: collapse; border: none;" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center" width="550" valign="top" style="border: none;">
+      <td align="center" width="650" valign="top" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=true" width="530" height="163">
       </td>
-      <td align="center" valign="top" width="390" style="border: none;">
+      <td align="center" valign="top" width="300" style="border: none;">
         <div style="background-color: #151515; padding: 10px; border-radius: 8px; height: 450px; width: 500px; margin-left: 10px;">
           <table style="border-collapse: collapse; border: none; color: #bbbbbb; font-size: 18px; width: 100%;">
             <tr style="border: none;">
