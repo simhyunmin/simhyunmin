@@ -15,9 +15,9 @@ Inha University - Computer Science (2021 ~ Present)
   <table id="stats-table" style="border-collapse: collapse; border: none;" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" width="550" valign="top" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=true" width="450" height="163">
+        <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=true" width="530" height="163">
       </td>
-      <td align="center" valign="top" width="600" style="border: none;">
+      <td align="center" valign="top" width="390" style="border: none;">
         <div style="background-color: #151515; padding: 10px; border-radius: 8px; height: 450px; width: 500px; margin-left: 10px;">
           <table style="border-collapse: collapse; border: none; color: #bbbbbb; font-size: 18px; width: 100%;">
             <tr style="border: none;">
@@ -64,7 +64,7 @@ Inha University - Computer Science (2021 ~ Present)
       <td align="center" width="500" valign="top" style="border: none;">
         <img src="https://streak-stats.demolab.com/?user=simhyunmin&background=151515&fire=888888&ring=ffffff&currStreakNum=ffffff&currStreakLabel=bbbbbb&sideNums=bbbbbb&sideLabels=bbbbbb&dates=888888&hide_border=true" width="490"/>
       </td>
-      <td align="center" valign="middle" width="400" style="border: none;">
+      <td align="center" valign="middle" width="450" style="border: none;">
         <div style="padding: 10px; margin-left: 10px;">
           <strong style="font-size: 1.2em; color: white;">Featured Project</strong><br>
           <a href="https://1-page.site/">
