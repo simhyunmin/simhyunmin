@@ -45,11 +45,9 @@ Inha University - Computer Science (2021 ~ Present)
         <a href="mailto:shm66371945@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
         </a>
-        &nbsp;
         <a href="https://www.instagram.com/hyunmin1125">
           <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
         </a>
-        &nbsp;
         <a href="https://velog.io/@simhyunmin">
           <img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge"/>
         </a>
