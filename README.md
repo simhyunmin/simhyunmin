@@ -1,6 +1,11 @@
 <div style="width: 50%; text-align: left;">
 <img width="1024" height="392" alt="image" src="https://github.com/user-attachments/assets/adae6dc7-8a88-4a61-91aa-db8a03e07706" />
+  
+## I'm Hyeonmin Sim
+I strive for excellence beyond just writing functional code. I find deep satisfaction in quantitatively analyzing system limits and overcoming them through rigorous engineering.
 
+### Education
+Inha University - Computer Science (2021 ~ Present)
 <br>
 <div style="width: 50%; text-align: left;">
 
