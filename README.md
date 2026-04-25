@@ -70,7 +70,7 @@ Inha University - Computer Science (2021 ~ Present)
           <a href="https://1-page.site/">
             <img src="https://img.shields.io/badge/OnePage_AI_Lecture_Summary-555555?style=for-the-badge&logo=googledocs&logoColor=white" height="20"/>
           </a>
-          <br><br>
+          <br>
           <strong style="font-size: 1em; color: white;">Contact & Links</strong><br>
           <a href="mailto:shm66371945@gmail.com"><img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white" height="20"/></a>
           <a href="https://www.linkedin.com/in/simhyunmin"><img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></a>
