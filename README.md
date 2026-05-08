@@ -15,7 +15,9 @@ Inha University - Computer Science (2021 ~ Present)
   <table id="stats-table" style="border-collapse: collapse; border: none;" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" width="650" valign="top" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=true" width="530">
+        <a href="https://github.com/simhyunmin">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=simhyunmin&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=888888&text_color=bbbbbb&border_color=333333&hide_border=false&count_private=true&include_all_commits=true" width="430" height="195">
+        </a>
       </td>
       <td align="center" valign="top" width="300" style="border: none;">
         <div style="background-color: #151515; padding: 10px; border-radius: 8px; height: 450px; width: 500px; margin-left: 10px;">
