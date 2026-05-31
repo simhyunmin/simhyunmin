@@ -79,7 +79,6 @@ I truly enjoy the process of shaving off heavy latency to make servers lighter a
           <strong style="font-size: 1em; color: white;">Core Stack</strong><br>
           <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" height="20"/>
           <img src="https://img.shields.io/badge/Spring_Boot-333333?style=for-the-badge&logo=springboot&logoColor=white" height="20"/>
-          <img src="https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white"/>
           <img src="https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white"/>
         </div>
