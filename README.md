@@ -73,10 +73,8 @@ I truly enjoy the process of shaving off heavy latency to make servers lighter a
           </a>
           <br>
           <strong style="font-size: 1em; color: white;">Contact & Links</strong><br>
-          <a href="mailto:shm66371945@gmail.com"><img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white" height="20"/></a>
           <a href="www.linkedin.com/in/simhyeonmin"><img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></a>
           <a href="https://velog.io/@simhyunmin"><img src="https://img.shields.io/badge/Velog-555555?style=for-the-badge&logo=velog&logoColor=white" height="20"/></a>
-          <a href="https://www.instagram.com/hyunmin1125"><img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white" height="20"/></a>
           <br>
           <strong style="font-size: 1em; color: white;">Core Stack</strong><br>
           <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" height="20"/>
