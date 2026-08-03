@@ -1,5 +1,5 @@
 <div style="width: 50%; text-align: left;">
-<img width="1024" height="392" alt="image" src="https://github.com/user-attachments/assets/adae6dc7-8a88-4a61-91aa-db8a03e07706" />
+<!-- <img width="1024" height="392" alt="image" src="https://github.com/user-attachments/assets/adae6dc7-8a88-4a61-91aa-db8a03e07706" /> -->
   
 ## I'm Hyeonmin Sim
 I like diagnosing complex bottlenecks and resolving system inefficiencies one by one. <br>
