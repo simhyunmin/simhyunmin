@@ -2,8 +2,9 @@
 <!-- <img width="1024" height="392" alt="image" src="https://github.com/user-attachments/assets/adae6dc7-8a88-4a61-91aa-db8a03e07706" /> -->
   
 ## I'm Hyeonmin Sim
-I like diagnosing complex bottlenecks and resolving system inefficiencies one by one. <br>
-I truly enjoy the process of shaving off heavy latency to make servers lighter and more robust.
+I am a backend engineer dedicated to building user-centric and cost-efficient systems. <br>
+My expertise includes legacy refactoring, concurrency control, and designing AI pipelines. <br>
+I focus on delivering highly available architectures that support business growth while continuously optimizing infrastructure costs.
 
 <br>
 <div style="width: 50%; text-align: left;">
