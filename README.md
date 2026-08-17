@@ -69,8 +69,8 @@ I focus on delivering highly available architectures that support business growt
       <td align="left" valign="middle" width="450" style="border: none;">
         <div style="padding: 10px; margin-left: 10px;">
           <strong style="font-size: 1em; color: white;">Featured Project</strong><br>
-          <a href="https://1-page.site/">
-            <img src="https://img.shields.io/badge/OnePage_AI_Lecture_Summary-555555?style=for-the-badge&logo=googledocs&logoColor=white" height="20"/>
+          <a href="https://mori-q.com/">
+            <img src="https://img.shields.io/badge/MoriQ-555555?style=for-the-badge&logo=googledocs&logoColor=white" height="20"/>
           </a>
           <br>
           <strong style="font-size: 1em; color: white;">Contact & Links</strong><br>
