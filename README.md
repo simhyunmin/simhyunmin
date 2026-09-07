@@ -26,6 +26,40 @@ val me = developer {
 ##
 
 <div align="center">
+  <div style="background-color: #151515; padding: 16px 20px; border-radius: 8px; width: 880px; text-align: left;">
+    <strong style="font-size: 1em; color: white;">🌍 Open Source Contributions</strong><br>
+    <span style="color: #bbbbbb; font-size: 0.9em;">Pull requests authored &amp; merged into community projects (repos I don't own).</span>
+    <br><br>
+    <table style="border-collapse: collapse; border: none; color: #bbbbbb; font-size: 0.85em; width: 100%;">
+      <tr style="border: none;">
+        <td style="padding: 4px 8px 4px 0; border: none; white-space: nowrap;"><strong><a href="https://github.com/langchain4j/langchain4j" style="color:#ffffff;">langchain4j</a></strong> <span style="color:#888888;">⭐13k</span></td>
+        <td style="padding: 4px 0; border: none;"><a href="https://github.com/langchain4j/langchain4j/pull/6096" style="color:#bbbbbb;">#6096</a> — <code>loadDocuments()</code> skips files that fail to parse instead of aborting the whole batch</td>
+      </tr>
+      <tr style="border: none;">
+        <td style="padding: 4px 8px 4px 0; border: none; white-space: nowrap;"><strong><a href="https://github.com/redisson/redisson" style="color:#ffffff;">redisson</a></strong> <span style="color:#888888;">⭐24.4k</span></td>
+        <td style="padding: 4px 0; border: none;"><a href="https://github.com/redisson/redisson/pull/7327" style="color:#bbbbbb;">#7327</a> — fixed <code>RedissonCache.retrieve()</code> leaking the internal null sentinel</td>
+      </tr>
+      <tr style="border: none;">
+        <td style="padding: 4px 8px 4px 0; border: none; white-space: nowrap;"><strong>redisson</strong> <span style="color:#888888;">⭐24.4k</span></td>
+        <td style="padding: 4px 0; border: none;"><a href="https://github.com/redisson/redisson/pull/7316" style="color:#bbbbbb;">#7316</a> — fixed <code>set()</code> ignoring <code>KEEPTTL</code> and unix-timestamp expirations</td>
+      </tr>
+      <tr style="border: none;">
+        <td style="padding: 4px 8px 4px 0; border: none; white-space: nowrap;"><strong>redisson</strong> <span style="color:#888888;">⭐24.4k</span></td>
+        <td style="padding: 4px 0; border: none;"><a href="https://github.com/redisson/redisson/pull/7312" style="color:#bbbbbb;">#7312</a> — reused <code>RxIteratorConsumer</code> instead of duplicating the SCAN-cursor loop</td>
+      </tr>
+      <tr style="border: none;">
+        <td style="padding: 4px 8px 4px 0; border: none; white-space: nowrap;"><strong>redisson</strong> <span style="color:#888888;">⭐24.4k</span></td>
+        <td style="padding: 4px 0; border: none;"><a href="https://github.com/redisson/redisson/pull/7309" style="color:#bbbbbb;">#7309</a> — fixed reactive <code>getEx()</code> ignoring <code>PERSIST</code>/<code>KEEPTTL</code>/<code>EXAT</code>/<code>PXAT</code></td>
+      </tr>
+    </table>
+    <br>
+    <sub style="color:#888888;">🔍 full list: <a href="https://github.com/search?q=author%3Astlahxm+is%3Apr+is%3Amerged&type=pullrequests" style="color:#888888;">PRs by @stlahxm, merged, into repos I don't own</a></sub>
+  </div>
+</div>
+
+<br>
+
+<div align="center">
   <table id="stats-table" style="border-collapse: collapse; border: none;" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" width="650" valign="top" style="border: none;">
