@@ -133,13 +133,5 @@ val me = developer {
         </div>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center" style="border: none;">
-        <br>
-        <a href="https://github.com/stlahxm">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=stlahxm&bg_color=151515&color=888888&line=888888&point=ffffff&area=true&hide_border=true" width="880">
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
