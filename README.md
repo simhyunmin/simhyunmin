@@ -53,7 +53,7 @@ val me = developer {
       </tr>
     </table>
     <br>
-    <sub style="color:#888888;">🔍 full list: <a href="https://github.com/search?q=author%3Astlahxm+is%3Apr+is%3Amerged&type=pullrequests" style="color:#888888;">PRs by @stlahxm, merged, into repos I don't own</a></sub>
+    <sub style="color:#888888;">🔍 <a href="https://github.com/search?q=author%3Astlahxm+is%3Apr+is%3Amerged&type=pullrequests" style="color:#888888;">Full list of merged PRs into repos I don't own</a></sub>
   </div>
 </div>
 
